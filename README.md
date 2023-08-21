@@ -1,10 +1,12 @@
-
 <p align="center">
-  <img src="https://now-play.vercel.app/api/generate?uid=b8f2ba2a-653d-4fc1-a6e8-1a095cee007d" />
-</p>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=pc8oiwotonvqvkw61vimh0kks&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ffitc6zu2mtc52wsihrk89zxy&redirect&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&bar_color=ff0000&bar_color_cover=true"
+       alt="Spotify Playing" width="350" />
+</a>
 
-<p align="center">
   <img width="1000" height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVhYjQxMjAyYzQ2MjNsNmVwcjZmd3I1MzdheHh0MG1sMHhsbjFjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wPyMMQ1NWpmfe/giphy.gif">
+ 
+ 
 </p>
 
 <dir>
