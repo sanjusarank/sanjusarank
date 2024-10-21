@@ -19,6 +19,7 @@
 </picture>
 </h2>
 
+- Undertale 2015 (Pacifist run)
 - Metal Gear Solid 1998
 - Final Fantasy 1987
 - Disco Elysium The Final Cut 2019
