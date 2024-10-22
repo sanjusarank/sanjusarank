@@ -13,7 +13,8 @@
 </picture></h2>
 
 
-![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-Active-brightgreen)
+[![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
+
 
 <p>Inprogress</p>
 
