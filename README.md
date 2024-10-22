@@ -25,9 +25,7 @@
 </picture>
 </h2>
 
-![Undertale](https://img.shields.io/badge/Undertale%202015%20(True%20Pacifist%20Run)-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge&labelColor=white)
-
-- Undertale 2015 (True Pacifist run)
+![Undertale](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Undertale%202015%20(True%20Pacifist%20Run)-white?style=for-the-badge&labelColor=white&color=red)
 - Metal Gear Solid 1998
 - Disco Elysium The Final Cut 2019
 
