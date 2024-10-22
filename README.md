@@ -13,12 +13,11 @@
 </picture></h2>
 
 
-[![INDIAN SIGN LANGUAGE TO SPEECH](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH-IN%20PROGRESS%2060%25-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
+![INDIAN SIGN LANGUAGE TO SPEECH](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH-IN%20PROGRESS%2060%25-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)
+
+![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-Progress%2015%25-brightblue?style=for-the-badge&logoColor=white)]
 
 [![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
-
-
-<p>Inprogress</p>
 
 <h2>Currently Playing<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.webp" type="image/webp">
