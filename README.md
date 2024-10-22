@@ -25,6 +25,8 @@
 </picture>
 </h2>
 
+![Undertale Heart](https://img.shields.io/badge/undertale-%E2%99%A5-%23E71D29?style=for-the-badge)
+
 - Undertale 2015 (True Pacifist run)
 - Metal Gear Solid 1998
 - Disco Elysium The Final Cut 2019
