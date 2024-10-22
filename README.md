@@ -26,7 +26,8 @@
 </h2>
 
 ![Undertale](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Undertale%202015%20(True%20Pacifist%20Run)-white?style=for-the-badge&labelColor=white&color=red)
-- Metal Gear Solid 1998
+![Metal Gear Solid](https://img.shields.io/badge/%F0%9F%A6%8A-METAL%20GEAR%20SOLID%201998-red?style=for-the-badge&labelColor=white&color=white)
+
 - Disco Elysium The Final Cut 2019
 
 <h2>Contact me<picture>
