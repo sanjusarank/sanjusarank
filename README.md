@@ -25,7 +25,7 @@
 </picture>
 </h2>
 
-![Undertale Heart](https://img.shields.io/badge/undertale-%E2%99%A5-%23E71D29?style=for-the-badge)
+![Undertale](https://img.shields.io/badge/Undertale%202015%20(True%20Pacifist%20Run)-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge&labelColor=white)
 
 - Undertale 2015 (True Pacifist run)
 - Metal Gear Solid 1998
