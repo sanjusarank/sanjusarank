@@ -15,7 +15,7 @@
 
 ![INDIAN SIGN LANGUAGE TO SPEECH](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH-IN%20PROGRESS%2060%25-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)
 
-![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-Progress%2015%25-brightblue?style=for-the-badge&logoColor=white)]
+![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-Progress%2015%25-brightblue?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)
 
 [![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
 
