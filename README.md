@@ -14,9 +14,7 @@
 
 
 ![INDIAN SIGN LANGUAGE TO SPEECH](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH-IN%20PROGRESS%2060%25-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)
-
 ![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-IN%20Progress%2015%25-%231e90ff?style=for-the-badge&logo=GitHub&labelColor=%231e90ff&logoColor=white&color=white)
-
 [![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
 
 <h2>Currently Playing<picture>
@@ -26,9 +24,8 @@
 </h2>
 
 ![Undertale](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Undertale%202015%20(True%20Pacifist%20Run)-white?style=for-the-badge&labelColor=white&color=red)
-![Metal Gear Solid](https://img.shields.io/badge/%F0%9F%A6%8A-METAL%20GEAR%20SOLID%201998-red?style=for-the-badge&labelColor=white&color=white)
-
-- Disco Elysium The Final Cut 2019
+![Metal Gear Solid](https://img.shields.io/badge/%F0%9F%A6%8A-Metal%20Gear%20Solid%201998-white?style=for-the-badge&labelColor=white&color=forestgreen)
+![Disco Elysium](https://img.shields.io/badge/%F0%9F%AA%A9-Disco%20Elysium%20The%20Final%20Cut%202019-white?style=for-the-badge&labelColor=white&color=purple)
 
 <h2>Contact me<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.webp" type="image/webp">
