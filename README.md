@@ -7,14 +7,25 @@
 
 
 
- <h2> AI/ML Projects <picture>
+ <h2> Currently Working AI/ML Projects <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f636_200d_1f32b_fe0f/512.gif" alt="😶" width="32" height="32">
 </picture></h2>
 
 
 ![INDIAN SIGN LANGUAGE TO SPEECH](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH-IN%20PROGRESS%2060%25-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)
+![Real-Time Indian Currency and Coin Detection Using Instance Segmentation](https://img.shields.io/badge/Real--Time%20Indian%20Currency%20and%20Coin%20Detection%20Using%20Instance%20Segmentation-IN%20PROGRESS%2035%25-crimson?style=for-the-badge&logo=GitHub&labelColor=crimson&logoColor=white&color=white)
 ![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-IN%20Progress%2015%25-%231e90ff?style=for-the-badge&logo=GitHub&labelColor=%231e90ff&logoColor=white&color=white)
+
+ <h2>Works<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f974/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f974/512.gif" alt="🥴" width="32" height="32">
+</picture></h2>
+<p>WORKS.md IN PROGRESS <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32">
+</picture> </p>
+
 [![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
 
 <h2>Currently Playing<picture>
@@ -34,7 +45,10 @@
  
 </h2>
  <p>💬 Reach me by email: 007sansara2@gmail.com</p>
- <p>🔫 Visit my website: inprogress</p>
+ <p>🔫 Visit my website: in progress <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32">
+</picture></p>
 
  <h2>Technologies <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
