@@ -14,8 +14,8 @@
 
 
 ![INDIAN SIGN LANGUAGE TO SPEECH](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH-IN%20PROGRESS%2060%25-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)
-![Real-Time Indian Currency and Coin Detection Using Instance Segmentation](https://img.shields.io/badge/Real--Time%20Indian%20Currency%20and%20Coin%20Detection%20Using%20Instance%20Segmentation-IN%20PROGRESS%2035%25-crimson?style=for-the-badge&logo=GitHub&labelColor=crimson&logoColor=white&color=white)
-![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-IN%20Progress%2015%25-%231e90ff?style=for-the-badge&logo=GitHub&labelColor=%231e90ff&logoColor=white&color=white)
+![Real-Time Indian Currency and Coin Detection Using Instance Segmentation](https://img.shields.io/badge/Real--Time%20Indian%20Currency%20and%20Coin%20Detection%20Using%20Instance%20Segmentation-IN%20PROGRESS%2010%25-crimson?style=for-the-badge&logo=GitHub&labelColor=crimson&logoColor=white&color=white)
+![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-IN%20Progress%205%25-%231e90ff?style=for-the-badge&logo=GitHub&labelColor=%231e90ff&logoColor=white&color=white)
 
  <h2>Works<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f974/512.webp" type="image/webp">
