@@ -35,8 +35,6 @@
 </h2>
 
 ![Undertale](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Undertale%202015%20(True%20Pacifist%20Run)-white?style=for-the-badge&labelColor=white&color=red)
-![Metal Gear Solid](https://img.shields.io/badge/%F0%9F%A6%8A-Metal%20Gear%20Solid%201998-white?style=for-the-badge&labelColor=white&color=forestgreen)
-![Disco Elysium](https://img.shields.io/badge/%F0%9F%AA%A9-Disco%20Elysium%20The%20Final%20Cut%202019-white?style=for-the-badge&labelColor=white&color=purple)
 
 <h2>Contact me<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.webp" type="image/webp">
