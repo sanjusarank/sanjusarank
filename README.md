@@ -13,7 +13,7 @@
 </picture></h2>
 
 
-
+![Multi Fruit Ripeness Detection System](https://img.shields.io/badge/Multi%20Fruit%20Ripness%20Detection%20System-IN%20PROGRESS%2070%25-gold?style=for-the-badge&logo=GitHub&labelColor=gold&logoColor=white&color=white)
 ![Real-Time Indian Currency and Coin Detection](https://img.shields.io/badge/Real--Time%20Indian%20Currency%20and%20Coin%20Detection-IN%20PROGRESS%2050%25-crimson?style=for-the-badge&logo=GitHub&labelColor=crimson&logoColor=white&color=white)
 ![Deep Learning-Based Micro-organism Identification](https://img.shields.io/badge/Deep%20Learning%20Based%20Micro--organism%20Identification-IN%20Progress%205%25-%231e90ff?style=for-the-badge&logo=GitHub&labelColor=%231e90ff&logoColor=white&color=white)
 
@@ -23,7 +23,7 @@
 </picture></h2>
 
 [![INDIAN SIGN LANGUAGE TO SPEECH USING YOLOv5 WITH AUDIO FEEDBACK](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH%20USING%20YOLOv5%20WITH%20AUDIO%20FEEDBACK-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)](https://github.com/sanjusarank/INDIAN-SIGN-LANGUAGE-TO-SPEECH-USING-YOLOv5-WITH-AUDIO-FEEDBACK)
-[![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
+[![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&labelColor=brightgreen&logoColor=white&color=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
 
 <p>WORKS.md IN PROGRESS <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp">
