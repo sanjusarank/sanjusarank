@@ -22,7 +22,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f974/512.gif" alt="🥴" width="32" height="32">
 </picture></h2>
 
-![INDIAN SIGN LANGUAGE TO SPEECH USING YOLOv5 WITH AUDIO FEEDBACK](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH%20USING%20YOLOv5%20WITH%20AUDIO%20FEEDBACK-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white&link=https://github.com/sanjusarank/INDIAN-SIGN-LANGUAGE-TO-SPEECH-USING-YOLOv5-WITH-AUDIO-FEEDBACK)
+[![INDIAN SIGN LANGUAGE TO SPEECH USING YOLOv5 WITH AUDIO FEEDBACK](https://img.shields.io/badge/INDIAN%20SIGN%20LANGUAGE%20TO%20SPEECH%20USING%20YOLOv5%20WITH%20AUDIO%20FEEDBACK-orange?style=for-the-badge&logo=GitHub&labelColor=orange&logoColor=white&color=white)](https://github.com/sanjusarank/INDIAN-SIGN-LANGUAGE-TO-SPEECH-USING-YOLOv5-WITH-AUDIO-FEEDBACK)
+
 [![3DKEYPOINTS MEDIAPIPE VISUALIZATION](https://img.shields.io/badge/3DKEYPOINTS%20MEDIAPIPE%20VISUALIZATION-%23brightgreen.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sanjusarank/3DKEYPOINT-MEDIAPIPE-VISUALIZATION)
 
 <p>WORKS.md IN PROGRESS <picture>
